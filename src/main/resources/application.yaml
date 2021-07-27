@@ -1,4 +1,4 @@
 client.credentials.file: samples/ebay-config.yaml
 environment: PRODUCTION
-endpoint: https://ebay-webhook-demo.herokuapp.com/notification
+endpoint: https://event-notification-java-sdk.herokuapp.com/webhook
 verificationToken: 1234-1234-1234-1234-1234-1234-1234
