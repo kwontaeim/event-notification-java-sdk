@@ -2,13 +2,13 @@ name: ebay-config
 
 # UPDATE the values in this file for the appropriate environment. Required to fetch PublicKey for integrity check.
 api.sandbox.ebay.com:
-    appid: <appid-from-developer-portal>
-    certid: <certid-from-developer-portal>
-    devid: <devid-from-developer-portal>
-    redirecturi: <redirect_uri-from-developer-portal>
+    appid: Blackwel-blackwel-SBX-ac8eaa52b-9483fd1b
+    certid: SBX-c8eaa52bd304-c665-417f-ad13-85ef
+    devid: 79ea4084-b4d2-4ad2-8fe5-35194107bf83
+    redirecturi: test.com
 
 api.ebay.com:
-    appid: <appid-from-developer-portal>
-    certid: <certid-from-developer-portal>
-    devid: <devid-from-developer-portal>
-    redirecturi: <redirect_uri-from-developer-portal>
+    appid: Blackwel-blackwel-PRD-bafbfbe27-e7590090
+    certid: PRD-afbfbe27a2a3-8c0b-46ca-9a7d-df15
+    devid: 79ea4084-b4d2-4ad2-8fe5-35194107bf83
+    redirecturi: test.com
