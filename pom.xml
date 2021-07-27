@@ -129,9 +129,6 @@
                             <goal>generate</goal>
                         </goals>
                         <configuration>
-                          <processTypes>
-     						<web>java $JAVA_OPTS -cp target/classes:target/dependency/* Main</web>
-  							</processTypes>
                             <inputSpec>${project.basedir}/src/main/resources/openapi.yaml</inputSpec>
                             <generatorName>java</generatorName>
                             <generateApis>false</generateApis>
